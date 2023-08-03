@@ -1,6 +1,6 @@
 # Sharememories
 
-A platform to share pictures a with your friends.
+A platform to share pictures with your friends.
 
 ## Link for DEMO:-https://elegant-twilight-161fd1.netlify.app/
 
