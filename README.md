@@ -1,4 +1,5 @@
 # Sharememories
 
 A platform to share pictures a with your friends.
-![image](https://github.com/somendrakr/Sharememories/assets/61977952/372a35c4-87fb-4d66-9ed5-b5a25c4f7154)
+
+![image](https://github.com/somendrakr/Sharememories/assets/61977952/2db5cb85-9b6b-4acc-989a-f36ebb8d1742)
